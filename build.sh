@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Project deployed through bash script
 # Set variables
 PROJECT_NAME="StaticReactApp"
 SOURCE_DIR="src"
